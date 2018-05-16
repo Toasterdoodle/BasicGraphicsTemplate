@@ -25,7 +25,7 @@ public class Window extends JPanel {
 
         setUpMouseListener();
 
-    }//end Board
+    }//end Window
 
     //==========methods==========
 
